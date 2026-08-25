@@ -1,45 +1,189 @@
-[![MasterHead](https://bestarion.com/wp-content/uploads/2021/02/DEVLOPER.jpg)](https://breinersmartinez.github.io/Portfolio-Breiner-Martinez-Mu-oz-Inglish.github.io/)
-<h1 align="center">Hi, I'm Breiner MArtinez</h1>
-<h3 align="center">A passionate back-end developer from Colombia</h3>
+# Hi, I'm Breiner Martínez 👋
 
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.18a4949fc9c8067172d3b96e302e7097?rik=%2fLZCQFlB6A7KlQ&pid=ImgRaw&r=0">
-<!--Solo hacer cambios en el contenido de abajo-->
+### Junior Backend Developer | Java • Spring Boot • REST APIs • PostgreSQL • Docker
 
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=breinersmartinez&label=Profile%20views&color=0e75b6&style=flat" alt="breinersmartinez" /> </p>
--->
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I'm a Systems Engineering student from Colombia focused on **backend development with Java and Spring Boot**.
 
-- 🌱 I’m currently learning **SpringBoot**
+I enjoy designing and building backend applications, REST APIs, authentication and authorization systems, database integrations, and containerized applications. I also have experience working with React, AWS, IoT, MQTT, WebSockets, and relational databases.
 
-- 👨‍💻 All of my projects are available at [https://breinersmartinez.github.io/Portfolio-Breiner-Martinez-Mu-oz-Inglish.github.io/](https://breinersmartinez.github.io/Portfolio-Breiner-Martinez-Mu-oz-Inglish.github.io/)
+Currently, I'm looking for **internship and Junior Software Developer opportunities in Colombia**, including remote, hybrid, and on-site positions.
 
-- 💬 Ask me about **Java, Springboot, data bases SQL AND NOSQL**
+---
 
-- 📫 How to reach me **breynersartinezmunoz@gmail.com**
+##  About Me
 
-- ⚡ Fun fact **I am friendly and sociable.**
+*  Systems Engineering student at **Universidad Cooperativa de Colombia**
+*  Focused on **Backend Development**
+*  Main language: **Java**
+*  Currently strengthening my skills in **Spring Boot, software architecture, testing, cloud, and system design**
+*  Interested in **security, authentication, APIs, and distributed systems**
+*  Experience with **Docker and containerized applications**
+*  Experience with **AWS EC2 and application deployment**
+*  Preparing continuously for **technical interviews and software engineering roles**
+*  Based in Colombia
+*  Contact: **[breynersartinezmunoz@gmail.com](mailto:breynersartinezmunoz@gmail.com)**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/breyner-saul-mart%c3%adnez-mu%c3%b1oz-a48986323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/breyner-saul-mart%c3%adnez-mu%c3%b1oz-a48986323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/breyner_martinez_muñoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="breyner_martinez_muñoz" height="30" width="40" /></a>
-<a href="https://fb.com/breyner s martínez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="breyner s martínez" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40" height="40" alt="Hibernate"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40" height="40" alt="Maven"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+**Java · Spring Boot · Spring Security · Spring Data JPA · Hibernate · REST APIs · WebSockets · Maven**
 
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> </p>
+### Databases
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=breinersmartinez&show_icons=true&locale=en&layout=compact" alt="breinersmartinez" /></p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=breinersmartinez&show_icons=true&locale=en" alt="breinersmartinez" /></p>
+**PostgreSQL · MySQL · Oracle · SQL · Relational Database Design**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=breinersmartinez&" alt="breinersmartinez" /></p>
+### Frontend
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+</p>
 
+**React · JavaScript · HTML5 · CSS3 · Tailwind CSS**
 
-<!--
- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
--->
+### DevOps & Cloud
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</p>
+
+**Docker · Docker Compose · AWS EC2 · Nginx · Git · GitHub Actions · Linux**
+
+### Other Technologies
+
+**JWT · Swagger/OpenAPI · MQTT · WebSockets · Postman · REST · CI/CD**
+
+---
+
+##  Featured Projects
+
+###  YourParking
+
+A parking management platform developed with a focus on backend architecture, authentication, reservations, tickets, payments, and API integration.
+
+**Technologies:** Java · Spring Boot · Spring Security · JWT · JPA · PostgreSQL · Docker · Docker Compose · React · REST API · Swagger/OpenAPI
+
+ [Backend](https://github.com/Breinersmartinez/YourParking-Community-Edition)
+
+ [Frontend](https://github.com/Breinersmartinez/YourParking-p)
+
+---
+
+###  ClinCore
+
+Full-stack application for clinical appointment management.
+
+The project integrates a React frontend with a Spring Boot REST API and Oracle database, including authentication, authorization, roles, permissions, refresh tokens, and database-level functionality.
+
+**Technologies:** Java · Spring Boot · Spring Security · JWT · JPA · Oracle · React · Docker · REST API · Swagger/OpenAPI
+
+ [View repository](https://github.com/Breinersmartinez/ClinCore)
+
+---
+
+###  Distributed IoT Sensor System
+
+Distributed IoT project using MQTT for communication between sensor components and backend services.
+
+**Technologies:** IoT · MQTT · Java · Distributed Systems
+
+ [View repository](https://github.com/Breinersmartinez/IOT-_distributed_sensor_system_whit_MQTT)
+
+---
+
+###  Spring Boot WebSocket
+
+A practical project focused on real-time communication using WebSockets with Java and Spring Boot.
+
+**Technologies:** Java · Spring Boot · WebSockets
+
+ [View repository](https://github.com/Breinersmartinez/Websocket_Java_SpringBoot)
+
+---
+
+###  Technical Interview Preparation
+
+Repository dedicated to preparing for software engineering technical interviews.
+
+Includes exercises and study material related to:
+
+* Data Structures & Algorithms
+* Java
+* SQL
+* Spring Boot
+* Software Design
+* System Design
+* Technical Interview Problems
+
+ [View repository](https://github.com/Breinersmartinez/technical-interview-prep)
+
+---
+
+##  Currently Improving
+
+* Advanced Spring Boot
+* Spring Security
+* Software Architecture
+* Design Patterns
+* Data Structures & Algorithms
+* System Design
+* Automated Testing
+* CI/CD
+* Cloud Computing
+* Docker & containerization
+
+---
+
+##  GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=breinersmartinez&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=breinersmartinez&show_icons=true&locale=en" alt="GitHub Stats"/>
+</p>
+
+---
+
+##  Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/breyner-saul-mart%C3%ADnez-mu%C3%B1oz-a48986323/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+</p>
+
+ **Email:** [breynersartinezmunoz@gmail.com](mailto:breynersartinezmunoz@gmail.com)
+
+---
+
+###  Open to opportunities
+
+I'm currently interested in:
+
+**Junior Backend Developer · Java Developer · Spring Boot Developer · Software Developer · Backend Internship · Software Engineering Internship**
+
+📍 Colombia · Remote · Hybrid · On-site
